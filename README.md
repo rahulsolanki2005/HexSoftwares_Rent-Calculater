@@ -45,5 +45,18 @@ A **command-line Rent Calculator** built using Python that helps you **split mon
    git clone https://github.com/<your-username>/Rent-Calculator.git
    cd Rent-Calculator
 
+2. Clone the repository:
+   ```bash
+   python rent_calculator.py
 
+---
 
+## 🛠️ Tech Stack
+
+- **👨‍💻 Author:** 
+- **Rahul Solanki**  
+  - 🎓 B.Tech (Cloud Technology & Information Security)
+  - 💼 Cybersecurity & Ethical Hacking Enthusiast
+  - 🔗 GitHub Profile
+
+---
