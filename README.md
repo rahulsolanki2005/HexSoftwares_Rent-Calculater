@@ -51,9 +51,8 @@ A **command-line Rent Calculator** built using Python that helps you **split mon
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 Author
 
-- **👨‍💻 Author:** 
 - **Rahul Solanki**  
   - 🎓 B.Tech (Cloud Technology & Information Security)
   - 💼 Cybersecurity & Ethical Hacking Enthusiast
