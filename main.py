@@ -145,13 +145,13 @@ def main():
     """Main function to run the calculator"""
     calculator = RentCalculator()
     
-    print("\n🎯 Welcome to Advanced Rent Calculator!")
+    print("\n🎯 Welcome to Rent Calculator!")
     print("Calculate and split your living expenses easily.\n")
-    
+     
     calculator.get_expense_details()
     total, per_person = calculator.display_results()
     calculator.show_savings_tip(total, per_person)
-    calculator.compare_with_another_person()
+    calculator.compare_with_another_person() 
     
     # Option to calculate again
     while True:
@@ -170,3 +170,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
